@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [GitHub Solution](https://github.com/unusualmide/Huddle-landing-page-with-alternating-feature-blocks)
-- Live Site URL: [GitHub Pages Live](https://unusualmide.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
+- Solution URL: [GitHub Solution](https://github.com/unusualmide/huddle-landing-page-with-alternating-feature-blocks)
+- Live Site URL: [GitHub Pages Live](https://unusualmide.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 
 
